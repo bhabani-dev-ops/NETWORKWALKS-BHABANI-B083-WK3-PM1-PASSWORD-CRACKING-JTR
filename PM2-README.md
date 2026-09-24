@@ -38,7 +38,7 @@ $pdf$4*4*128*-1060*1*16*55d1a5c14175da449753199e44971d32*32*777fd021a7f3c5ae598c
 ```
 
 📸 **Screenshot 1** – Hash extracted from the PDF via Hash Calculator
-![Hash Extraction](01-hash-extracted.png)
+![Hash Extraction](01-hash-extract.png)
 
 ### Step 2: Copy the hash and open the Password Cracker
 
