@@ -23,7 +23,7 @@ Recover the password of the protected file `My Locked PDF1.pdf` using the Networ
 ## 🖥️ Environment
 
 - Any web browser (no installation needed)
-- **Target file:** `My Locked PDF1.pdf`
+- **Target file:** `My-Locked-PDF1.pdf`
 
 ## 📋 Steps Performed
 
