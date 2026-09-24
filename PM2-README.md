@@ -30,7 +30,7 @@ Recover the password of the protected file `My Locked PDF1.pdf` using the Networ
 ### Step 1: Extract the hash using the Hash Calculator
 
 - Opened [networkwalks.com/hash-calculator/](https://networkwalks.com/hash-calculator/)
-- Selected the **PDF** tab and uploaded `My Locked PDF1.pdf`
+- Selected the **PDF** tab and uploaded `My-Locked-PDF1.pdf`
 - The tool parsed the file locally in-browser and extracted a crackable hash:
 
 ```
@@ -64,13 +64,13 @@ $pdf$4*4*128*-1060*1*16*55d1a5c14175da449753199e44971d32*32*777fd021a7f3c5ae598c
 
 ### Step 5: Unlock the PDF
 
-Opened `My Locked PDF1.pdf` and entered `password1` — file unlocked successfully.
+Opened `My-Locked-PDF1.pdf` and entered `password1` — file unlocked successfully.
 
 ## ✅ Result
 
 | File | Recovered Password |
 |------|--------------------|
-| My Locked PDF1.pdf | `password1` |
+| My-Locked-PDF1.pdf | `password1` |
 
 ## 🧠 What I Learned
 
