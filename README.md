@@ -41,7 +41,7 @@ My-Locked-PDF1.pdf:$pdf$4*4*128*-1060*1*16*55d1a5c14175da449753199e44971d32*32*7
 ```
 
 📸 **Screenshot 1** – Hash extracted from the PDF
-`![Hash Extraction](01-hash-extracted.png)`
+![Hash Extraction](01-hash-extracted.png)
 
 ### Step 2: Crack the hash with John the Ripper (CLI)
 
@@ -64,7 +64,7 @@ john --show --format=PDF hash1.txt
 ```
 
 📸 **Screenshot 2** – Password cracked via John CLI (`password1`)
-`![John CLI Crack](02-john-cli-cracked.png)`
+![John CLI Crack](02-john-cli-cracked.png)
 
 ### Step 3: Verify with Johnny (GUI)
 
@@ -73,7 +73,7 @@ john --show --format=PDF hash1.txt
 - Result: `100% (1/1: 1 cracked, 0 left)` → password `password1`
 
 📸 **Screenshot 3** – Password cracked via Johnny GUI
-`![Johnny GUI Crack](04-johnny-gui-cracked.png)`
+![Johnny GUI Crack](04-johnny-gui-cracked.png)
 
 ### Step 4: Unlock the PDF
 
