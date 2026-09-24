@@ -51,7 +51,7 @@ $pdf$4*4*128*-1060*1*16*55d1a5c14175da449753199e44971d32*32*777fd021a7f3c5ae598c
 - Clicked **START CRACKING**
 - The tool ran through its built-in wordlist, trying candidate passwords one by one
 
-📸 **Screenshot 2** – Password Cracker running the dictionary attack (91/100 tried)
+📸 **Screenshot 2** – Password Cracker running the dictionary attack (47/100 tried)
 ![Cracking In Progress](02-cracking-in-progress.png)
 
 ### Step 4: Password cracked
